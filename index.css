@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 /*
 Generando conflictos jeje
 OJO: Este comentario se debe quedar como parte del repo
 */
-=======
 /* index.css MONOLÍTICO para el reto */
 /* BUG #4: esta regla sobreescribe el color correcto del h1 definido más abajo */
 h1 { color: purple; }
@@ -296,7 +294,6 @@ body {
   }
 }
 
-<<<<<<< HEAD
 /* Team Block */
 .team {
   padding: var(--space-xxl) 0;
@@ -464,8 +461,6 @@ body {
   .team__grid { grid-template-columns: 1fr; }
 }
 
-=======
->>>>>>> origin/navbar-fix
 /* Navigation Block */
 .nav {
   background-color: var(--color-dark);
@@ -709,8 +704,6 @@ a:hover { opacity: 0.8; }
     --font-size-xl: 20px;
   }
 }
-<<<<<<< HEAD
-=======
 
 /* Team Block */
 .team {
@@ -878,5 +871,3 @@ a:hover { opacity: 0.8; }
 @media (max-width: 480px) {
   .team__grid { grid-template-columns: 1fr; }
 }
->>>>>>> origin/navbar-fix
->>>>>>> origin/main
